@@ -1,4 +1,6 @@
-Adding a unnecessary amount of Keystone Holders to the Plug_Panel component, after moving the switch to the right skirt with @tayto-chip´s "skirt_switch_mod".
+Adding an unnecessary amount of Keystone Holders to the Plug_Panel component. 
+The part works with "TycoElectronics - 10EGG1-2 (Normal) or 10EHG1-2 (Medical) Filtered Power Inlet" or equal Inlets and needs moving the switch to another skirt 
+like with @tayto-chip´s mod.
 
 ![Plug_Panel](Img/Plug_Panel_CAD.png)
 
